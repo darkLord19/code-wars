@@ -5,4 +5,4 @@ Miss one question and lose 5 Rs!
 
 Month | U | E 
 --- | --- | ---
-September | 0 | 0
+September | 3 | 3
